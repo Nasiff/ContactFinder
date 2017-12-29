@@ -1,5 +1,5 @@
 # ContactFinder
-A little something that I made using Python that can be used to find phone numbers and email addresses on your clipboard.
+A Python Script that can be used to find phone numbers and email addresses on your clipboard.
 
 ## How It Works
 
